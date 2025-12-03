@@ -16,7 +16,7 @@
 
 <br/>
 
-<img align="right" width="380" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YZXBiz&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff"/>
+<img align="right" width="380" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YZXBiz&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff"/>
 
 ```python
 #!/usr/bin/env python3
@@ -52,10 +52,10 @@ me = MLEngineer()
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=YZXBiz&repo=databricks-ml-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF)](https://github.com/YZXBiz/databricks-ml-platform)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=YZXBiz&repo=ml-training-service&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF)](https://github.com/YZXBiz/ml-training-service)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=YZXBiz&repo=ml-feature-store&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF)](https://github.com/YZXBiz/ml-feature-store)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=YZXBiz&repo=kubeflow-ml-pipelines&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF)](https://github.com/YZXBiz/kubeflow-ml-pipelines)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=YZXBiz&repo=databricks-ml-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF)](https://github.com/YZXBiz/databricks-ml-platform)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=YZXBiz&repo=ml-training-service&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF)](https://github.com/YZXBiz/ml-training-service)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=YZXBiz&repo=ml-feature-store&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF)](https://github.com/YZXBiz/ml-feature-store)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=YZXBiz&repo=kubeflow-ml-pipelines&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF)](https://github.com/YZXBiz/kubeflow-ml-pipelines)
 
 </div>
 
@@ -114,7 +114,7 @@ me = MLEngineer()
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YZXBiz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF&text_color=ffffff&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YZXBiz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF&text_color=ffffff&include_all_commits=true&count_private=true"/>
   <img width="49%" src="https://streak-stats.demolab.com/?user=YZXBiz&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=ffffff"/>
 </div>
 
