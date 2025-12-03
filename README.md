@@ -107,12 +107,12 @@ me.say_hi()
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**databricks-mlops**](https://github.com/YZXBiz/databricks-mlops) | CI/CD pipelines, model registry, feature engineering | `Databricks` `MLflow` `Spark` |
-| [**training-microservice**](https://github.com/YZXBiz/training-microservice) | Containerized model training & hyperparameter optimization | `Docker` `Python` `FastAPI` |
+| [**databricks-ml-platform**](https://github.com/YZXBiz/databricks-ml-platform) | Production MLOps with CI/CD, model registry, feature engineering | `Databricks` `MLflow` `Spark` |
+| [**ml-training-service**](https://github.com/YZXBiz/ml-training-service) | Containerized training with experiment tracking & HPO | `Docker` `Python` `FastAPI` |
 | [**ml-feature-store**](https://github.com/YZXBiz/ml-feature-store) | Batch/streaming pipelines, LLM agents, production ML | `Feast` `Kafka` `Python` |
-| [**kubeflow-example**](https://github.com/YZXBiz/kubeflow-example) | K8s-native ML workflows & distributed training | `Kubeflow` `K8s` `Python` |
-| [**mlops-gcp**](https://github.com/YZXBiz/mlops-gcp) | Vertex AI pipelines & cloud-native ML infra | `GCP` `Vertex AI` `Python` |
-| [**cicd-mlops-demo**](https://github.com/YZXBiz/cicd-mlops-demo) | CI/CD automation for ML projects | `GitHub Actions` `MLOps` |
+| [**kubeflow-ml-pipelines**](https://github.com/YZXBiz/kubeflow-ml-pipelines) | K8s-native ML workflows & distributed training | `Kubeflow` `K8s` `Python` |
+| [**vertex-ai-mlops**](https://github.com/YZXBiz/vertex-ai-mlops) | Vertex AI pipelines & cloud-native ML infrastructure | `GCP` `Vertex AI` `Python` |
+| [**dagster-data-pipelines**](https://github.com/YZXBiz/dagster-data-pipelines) | Asset-based data orchestration & pipeline patterns | `Dagster` `Python` |
 
 </div>
 
