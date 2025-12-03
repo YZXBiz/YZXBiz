@@ -107,11 +107,12 @@ me.say_hi()
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**ml-feature-store**](https://github.com/YZXBiz/ml-feature-store) | Complete Feature Store: 15 chapters, batch/streaming pipelines, LLM agents | `Python` `Feast` `Kafka` |
-| [**kafka-tutorial**](https://github.com/YZXBiz/kafka-tutorial) | Kafka Deep Dive: Distributed streaming with visual diagrams | `Kafka` `Zookeeper` `Shell` |
-| [**hadoop-tutorial**](https://github.com/YZXBiz/hadoop-tutorial) | Docker-based Hadoop learning: HDFS, MapReduce, Hive, HBase | `Docker` `HDFS` `Hive` |
-| [**databricks-mlops**](https://github.com/YZXBiz/databricks-mlops) | MLOps on Databricks: End-to-end ML workflows | `Databricks` `MLflow` `Spark` |
-| [**gpu-tutorial**](https://github.com/YZXBiz/gpu-tutorial) | GPU Programming: CUDA & parallel computing guide | `CUDA` `C++` `Python` |
+| [**databricks-mlops**](https://github.com/YZXBiz/databricks-mlops) | CI/CD pipelines, model registry, feature engineering | `Databricks` `MLflow` `Spark` |
+| [**training-microservice**](https://github.com/YZXBiz/training-microservice) | Containerized model training & hyperparameter optimization | `Docker` `Python` `FastAPI` |
+| [**ml-feature-store**](https://github.com/YZXBiz/ml-feature-store) | Batch/streaming pipelines, LLM agents, production ML | `Feast` `Kafka` `Python` |
+| [**kubeflow-example**](https://github.com/YZXBiz/kubeflow-example) | K8s-native ML workflows & distributed training | `Kubeflow` `K8s` `Python` |
+| [**mlops-gcp**](https://github.com/YZXBiz/mlops-gcp) | Vertex AI pipelines & cloud-native ML infra | `GCP` `Vertex AI` `Python` |
+| [**cicd-mlops-demo**](https://github.com/YZXBiz/cicd-mlops-demo) | CI/CD automation for ML projects | `GitHub Actions` `MLOps` |
 
 </div>
 
