@@ -52,10 +52,9 @@ me = MLEngineer()
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=YZXBiz&repo=databricks-ml-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF)](https://github.com/YZXBiz/databricks-ml-platform)
-[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=YZXBiz&repo=ml-training-service&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF)](https://github.com/YZXBiz/ml-training-service)
-[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=YZXBiz&repo=ml-feature-store&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF)](https://github.com/YZXBiz/ml-feature-store)
-[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=YZXBiz&repo=kubeflow-ml-pipelines&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF)](https://github.com/YZXBiz/kubeflow-ml-pipelines)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=YZXBiz&repo=ml-platform-demo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF)](https://github.com/YZXBiz/ml-platform-demo)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=YZXBiz&repo=model-observability&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF)](https://github.com/YZXBiz/model-observability)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=YZXBiz&repo=safe-model-deployment&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF)](https://github.com/YZXBiz/safe-model-deployment)
 
 </div>
 
