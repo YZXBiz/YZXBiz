@@ -1,166 +1,56 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6C63FF&height=200&section=header&text=Jackson%20Yang&fontSize=60&fontColor=00D4FF&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20|%20MLOps%20Specialist%20|%20Production%20Systems&descSize=18&descAlignY=55&descColor=ffffff"/>
+# Jackson Yang
 
-<div align="center">
+ML Engineer at CVS Health. Five years taking ML from raw data to production — large-scale data engineering and lakehouse architecture, forecasting and causal inference, multi-agent LLM systems, and the MLOps to ship and run them reliably.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%9A%A1+Deploying+ML+at+scale;%F0%9F%94%A5+From+notebooks+to+production)](https://git.io/typing-svg)
+Built to ship at production scale — not prototypes that stall in notebooks.
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=YZXBiz&color=6C63FF&style=for-the-badge&label=VISITORS)](https://github.com/YZXBiz)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-y/)
-&nbsp;
-[![GitHub](https://img.shields.io/github/followers/YZXBiz?style=for-the-badge&color=6C63FF&logo=github&label=Follow)](https://github.com/YZXBiz)
-
-</div>
-
-<br/>
-
-<img align="right" width="380" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YZXBiz&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff"/>
-
-```python
-#!/usr/bin/env python3
-
-class MLEngineer:
-    """Building ML systems that ship."""
-
-    def __init__(self):
-        self.name = "Jackson Yang"
-        self.role = "ML Engineer @ CVS Health"
-        self.focus = [
-            "Production ML Pipelines",
-            "Feature Engineering at Scale",
-            "Model Serving & Monitoring",
-            "Distributed Training"
-        ]
-
-    def philosophy(self):
-        return """
-        Real ML isn't about notebooks.
-        It's about systems that run
-        at 3am without paging you.
-        """
-
-me = MLEngineer()
-```
-
-<br clear="right"/>
+[LinkedIn](https://www.linkedin.com/in/jackson-y/)
 
 ---
 
-<h3 align="center">🚀 Featured Projects</h3>
+## Production ML systems
 
-<div align="center">
+| Project | What it shows |
+|---|---|
+| [safe-model-deployment](https://github.com/YZXBiz/safe-model-deployment) | Champion–challenger deployment: traffic splitting, sequential testing, automated rollback |
+| [model-observability](https://github.com/YZXBiz/model-observability) | Production model monitoring: PSI/KL drift detection, latency SLOs, automated alerting |
+| [ml-platform-demo](https://github.com/YZXBiz/ml-platform-demo) | End-to-end ML platform: training pipelines, model serving, monitoring, CI/CD on Kubernetes |
+| [gpu-ml-learning](https://github.com/YZXBiz/gpu-ml-learning) | GPU programming with Triton and CUDA through hands-on ML examples |
 
-[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=YZXBiz&repo=ml-platform-demo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF)](https://github.com/YZXBiz/ml-platform-demo)
-[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=YZXBiz&repo=model-observability&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF)](https://github.com/YZXBiz/model-observability)
-[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=YZXBiz&repo=safe-model-deployment&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF)](https://github.com/YZXBiz/safe-model-deployment)
+## Engineering knowledge base
 
-</div>
+Interactive documentation sites I build and maintain while studying — each one turns a dense technical book or topic into a structured, navigable reference.
 
----
+**ML systems & MLOps** —
+[mlops-daily-dose](https://github.com/YZXBiz/mlops-daily-dose) ·
+[ml-feature-store](https://github.com/YZXBiz/ml-feature-store) ·
+[distributed-machine-learning](https://github.com/YZXBiz/distributed-machine-learning) ·
+[ai-systems-performance](https://github.com/YZXBiz/ai-systems-performance) ·
+[gpu-tutorial](https://github.com/YZXBiz/gpu-tutorial)
 
-<h3 align="center">⚡ Tech Stack</h3>
+**Data engineering** —
+[ddia](https://github.com/YZXBiz/ddia) ·
+[fundamentals-de](https://github.com/YZXBiz/fundamentals-de) ·
+[de-design-patterns](https://github.com/YZXBiz/de-design-patterns) ·
+[practical-lakehouse-architecture](https://github.com/YZXBiz/practical-lakehouse-architecture) ·
+[streaming-db](https://github.com/YZXBiz/streaming-db) ·
+[database-internal](https://github.com/YZXBiz/database-internal) ·
+[kafka-tutorial](https://github.com/YZXBiz/kafka-tutorial) ·
+[apache-flink](https://github.com/YZXBiz/apache-flink)
 
-<div align="center">
+**Systems & infrastructure** —
+[scalable-systems](https://github.com/YZXBiz/scalable-systems) ·
+[operating-systems](https://github.com/YZXBiz/operating-systems) ·
+[how-linux-works](https://github.com/YZXBiz/how-linux-works) ·
+[k8s-docs-tutorial](https://github.com/YZXBiz/k8s-docs-tutorial) ·
+[fundamentals-of-devops](https://github.com/YZXBiz/fundamentals-of-devops) ·
+[opentelemetry](https://github.com/YZXBiz/opentelemetry) ·
+[high-performance-python](https://github.com/YZXBiz/high-performance-python)
 
-<table>
-<tr>
-<td align="center" width="33%">
+## Stack
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-<br/>
-<sub><b>ML Frameworks</b></sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://skillicons.dev/icons?i=kafka,redis,postgres&theme=dark" />
-<br/>
-<sub><b>Data Infrastructure</b></sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform&theme=dark" />
-<br/>
-<sub><b>Infrastructure</b></sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,rust,go,scala,bash&theme=dark" />
-
-</div>
+`Python` `SQL` `PyTorch` `Spark` `LangChain/LangGraph` `Vertex AI` `Airflow` `Dagster` `MLflow` `BigQuery` `Snowflake` `Docker` `Kubernetes` `Terraform`
 
 ---
 
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YZXBiz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF&text_color=ffffff&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=YZXBiz&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=ffffff"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YZXBiz&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YZXBiz&bg_color=0d1117&color=00D4FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" width="100%"/>
-</div>
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YZXBiz/YZXBiz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YZXBiz/YZXBiz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YZXBiz/YZXBiz/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-```
-                    ╭──────────────────────────────────╮
-                    │                                  │
-                    │   Ship it. Monitor it. Scale it. │
-                    │                                  │
-                    ╰──────────────────────────────────╯
-```
-
-<br/>
-
-<a href="https://www.linkedin.com/in/jackson-y/">
-  <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=100&section=footer"/>
+*Ship it. Monitor it. Scale it.*
