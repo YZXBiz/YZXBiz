@@ -11,7 +11,7 @@ Senior Data Scientist at CVS Health in Los Angeles. I build the data and ML engi
 
 ### Projects
 
-| | |
+| Project | What it does |
 |:--|:--|
 | **[copytrading](https://github.com/YZXBiz/copytrading)**<br><sub>Swift · Python · SQLite · OpenTelemetry</sub> | Native macOS app that turns Discord trade calls into risk-checked Alpaca orders: LLM parsing, position limits, full tracing |
 | **[ml-platform-demo](https://github.com/YZXBiz/ml-platform-demo)**<br><sub>Python · Kubernetes · CI/CD</sub> | End-to-end ML platform: training pipelines, model serving, monitoring, and CI/CD on Kubernetes |
