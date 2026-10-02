@@ -1,6 +1,6 @@
 # Jackson Yang
 
-Senior Data Scientist at CVS Health in Los Angeles, building the data and ML engineering underneath production models: streaming pipelines, distributed training, ML platforms, and LLM agent workflows. Previously supply-chain forecasting at Walmart and data engineering at Avidian.
+Senior Data Scientist at CVS Health in Los Angeles, building the data and ML engineering underneath production models: streaming pipelines, distributed training, ML platforms, and LLM agent workflows. Previously supply-chain forecasting at Walmart.
 
 [LinkedIn](https://www.linkedin.com/in/jackson-y/) · Los Angeles, CA
 
