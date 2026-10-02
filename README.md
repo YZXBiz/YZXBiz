@@ -6,7 +6,7 @@ Senior Data Scientist at CVS Health in Los Angeles. I build the data and ML engi
 
 | Data pipelines | ML platforms | LLM systems |
 |:--|:--|:--|
-| Kafka → Spark → Iceberg CDC streaming over **~2B** sales records, **~10×** cheaper queries | Distributed PyTorch training on Ray, **~90%** faster | Pydantic AI multi-agent extraction, **85%** less manual tagging |
+| Kafka → Spark → Iceberg CDC streaming with partition pruning and pre-aggregation | Distributed PyTorch training on Ray across GPUs | Pydantic AI multi-agent extraction with evidence checks and human review |
 | Data contracts enforced in CI with Great Expectations | Auto-forecasting package with backtesting and retail calendars built in | Agentic RAG over BigQuery and planning reports |
 
 ### Projects
