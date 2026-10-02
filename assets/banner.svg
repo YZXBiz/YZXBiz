@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420" width="1600" height="420" role="img" aria-labelledby="title desc">
+  <title id="title">Jackson Yang — Data &amp; ML Engineering</title>
+  <desc id="desc">Banner with name and a pipeline diagram: Kafka, Spark, Iceberg, PyTorch and Ray, Kubeflow, production.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#132f3d"/>
+      <stop offset="1" stop-color="#1c4558"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#8fc7d8" fill-opacity="0.85"/>
+    </marker>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .node rect { fill: #ffffff; fill-opacity: 0.07; stroke: #ffffff; stroke-opacity: 0.28; stroke-width: 1.5; }
+      .node text { fill: #e3f0f5; font-size: 22px; font-weight: 600; }
+      .stage { fill: #8fc7d8; font-size: 15px; letter-spacing: 0.06em; }
+      .link { stroke: #8fc7d8; stroke-opacity: 0.7; stroke-width: 2; fill: none; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="420" rx="18" fill="url(#bg)"/>
+  <rect width="1600" height="420" rx="18" fill="url(#grid)"/>
+
+  <!-- Identity -->
+  <g class="sans">
+    <text x="80" y="150" fill="#ffffff" font-size="72" font-weight="700" letter-spacing="-0.02em">Jackson Yang</text>
+    <text x="82" y="206" fill="#bfe0ea" font-size="30" font-weight="500">Data &amp; ML engineering</text>
+    <text x="82" y="250" fill="#ffffff" fill-opacity="0.72" font-size="22">Senior Data Scientist · CVS Health · Los Angeles</text>
+  </g>
+
+  <!-- Pipeline: what I build -->
+  <g class="sans">
+    <text class="stage" x="80" y="322">STREAM</text>
+    <text class="stage" x="572" y="322">TRAIN</text>
+    <text class="stage" x="1066" y="322">SHIP</text>
+  </g>
+
+  <g class="node sans">
+    <rect x="80" y="338" width="132" height="50" rx="10"/><text x="146" y="371" text-anchor="middle">Kafka</text>
+    <rect x="246" y="338" width="132" height="50" rx="10"/><text x="312" y="371" text-anchor="middle">Spark</text>
+    <rect x="412" y="338" width="132" height="50" rx="10"/><text x="478" y="371" text-anchor="middle">Iceberg</text>
+    <rect x="572" y="338" width="200" height="50" rx="10"/><text x="672" y="371" text-anchor="middle">PyTorch · Ray</text>
+    <rect x="806" y="338" width="232" height="50" rx="10"/><text x="922" y="371" text-anchor="middle">Forecasting · LLMs</text>
+    <rect x="1066" y="338" width="160" height="50" rx="10"/><text x="1146" y="371" text-anchor="middle">Kubeflow</text>
+    <rect x="1260" y="338" width="180" height="50" rx="10"/><text x="1350" y="371" text-anchor="middle">Airflow</text>
+  </g>
+
+  <!-- Production endpoint -->
+  <g class="sans">
+    <rect x="1474" y="338" width="46" height="50" rx="10" fill="#8fc7d8"/>
+    <path d="M1486 363l8 8 15-16" stroke="#132f3d" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g class="link">
+    <line x1="212" y1="363" x2="244" y2="363" marker-end="url(#arrow)"/>
+    <line x1="378" y1="363" x2="410" y2="363" marker-end="url(#arrow)"/>
+    <line x1="544" y1="363" x2="570" y2="363" marker-end="url(#arrow)"/>
+    <line x1="772" y1="363" x2="804" y2="363" marker-end="url(#arrow)"/>
+    <line x1="1038" y1="363" x2="1064" y2="363" marker-end="url(#arrow)"/>
+    <line x1="1226" y1="363" x2="1258" y2="363" marker-end="url(#arrow)"/>
+    <line x1="1440" y1="363" x2="1472" y2="363" marker-end="url(#arrow)"/>
+  </g>
+
+  <!-- Quiet signature: the numbers behind the diagram -->
+  <g class="mono" fill="#ffffff" fill-opacity="0.55" font-size="18" text-anchor="end">
+    <text x="1520" y="118">~2B records streamed</text>
+    <text x="1520" y="150">~90% faster training</text>
+    <text x="1520" y="182">~$2M/month saved by forecasts</text>
+  </g>
+</svg>
