@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Jackson Yang — Data &amp; ML engineering. Pipeline: Kafka, Spark, Iceberg, PyTorch and Ray, forecasting and LLMs, Kubeflow, Airflow, production." width="100%">
+<img src="assets/header.svg" alt="Jackson Yang — Data &amp; ML engineering. Pipeline: Kafka, Spark, Iceberg, PyTorch and Ray, forecasting and LLMs, Kubeflow, Airflow, production." width="100%">
 
 Senior Data Scientist at CVS Health in Los Angeles. I build the data and ML engineering underneath production models: streaming pipelines, distributed training, ML platforms, and LLM agent workflows. Previously supply-chain forecasting at Walmart.
 
